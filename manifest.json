@@ -1,11 +1,11 @@
 {
-    "name": "portfolio_site",
-    "short_name": "portfolio_site",
+    "name": "Sai Kiran Vepamani | Portfolio",
+    "short_name": "SK Portfolio",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Sai Kiran Vepamani - Lead Engineer Gen AI at Bosch | Portfolio",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
